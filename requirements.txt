@@ -1,3 +1,4 @@
+pip install --upgrade pip
 transformers==4.39.3
 sentence-transformers==2.7.0
 chromadb==1.0.9
